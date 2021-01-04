@@ -1,0 +1,31 @@
+{
+  "name": "axios-with-refresh-token",
+  "version": "0.1.0",
+  "description": "Wrapper for axios with ability to set refresh and access tokens in memory, local storage, or cookies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalzubidy/axios-with-refresh-token.git"
+  },
+  "keywords": [
+    "axios",
+    "refresh",
+    "token",
+    "access",
+    "token",
+    "request",
+    "http"
+  ],
+  "author": "Ahmed Al-Zubidy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aalzubidy/axios-with-refresh-token/issues"
+  },
+  "homepage": "https://github.com/aalzubidy/axios-with-refresh-token#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
